@@ -7,9 +7,9 @@ import (
 
 	"github.com/golang/glog"
 	"github.com/golang/protobuf/ptypes/empty"
-	examples "github.com/grpc-ecosystem/grpc-gateway/examples/examplepb"
-	sub "github.com/grpc-ecosystem/grpc-gateway/examples/sub"
-	sub2 "github.com/grpc-ecosystem/grpc-gateway/examples/sub2"
+	examples "github.com/Mr-Giraffe/grpc-gateway/examples/examplepb"
+	sub "github.com/Mr-Giraffe/grpc-gateway/examples/sub"
+	sub2 "github.com/Mr-Giraffe/grpc-gateway/examples/sub2"
 	"github.com/rogpeppe/fastuuid"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
